@@ -17,6 +17,14 @@ QuakeVigilant adalah aplikasi berbasis web yang dibangun menggunakan framework P
 - Login dan logout.
 - Edit profil pengguna.
 
+### Fitur untuk guest
+- Pemantauan gempa bumi secara real-time.
+- Informasi daerah rawan gempa bumi.
+- Grafik visualisasi gempa bumi.
+- Artikel mengenai mitigasi gempa bumi.
+- Login dan logout.
+- Edit profil pengguna.
+
 ### Fitur untuk Admin
 - Dashboard ringkasan data gempa bumi, pengguna, dan artikel.
 - CRUD (Create, Read, Update, Delete) data gempa bumi.
