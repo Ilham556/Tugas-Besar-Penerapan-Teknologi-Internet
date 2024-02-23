@@ -4,8 +4,18 @@ Nama Anggota Kelompok:
 - Acep Alinurdin - 10121140
 
 informasi:
+aplikasi ini dibuat dengan Versi Python 3.8.17.
 Streamlit adalah framework Python yang memungkinkan Anda membuat aplikasi web dengan cepat hanya dengan menggunakan script Python.
 Disini saya membangun aplikasi seputar gempa bumi yang kami berinama QuakeVigilant yang dimana diambil dari dua kataquake adalah gempa dan vigilant adalah waspada jika diartikan menjadi Waspada terhadap gempa bumi. 
+
+fitur yang kami sediakan khusus guest meliputi:
+- Pemantauan gempa bumi secara realtime disajikan menggunakan MAPS. 
+- Daerah rawan gempa bumi disajikan menggunakan MAPS(HeatMap). 
+- Grafik gempa bumi
+- serta cara mitigasi gempa bumi berupa artikel.
+- login / logout
+- Edit Profile
+
 fitur yang kami sediakan khusus user meliputi:
 - Pemantauan gempa bumi secara realtime.
 - Daerah rawan gempa bumi.
@@ -14,6 +24,7 @@ fitur yang kami sediakan khusus user meliputi:
 - serta cara mitigasi gempa bumi berupa artikel.
 - login / logout
 - Edit Profile
+
 fitur yang kami sediakan khusus admin meliputi: 
 - Dashboard ringkasan seluruh data gempa bumi, user dan article
 - CRUD data gempa bumi.
@@ -23,8 +34,6 @@ fitur yang kami sediakan khusus admin meliputi:
 - Edit Profile
 
 yang dimana diharapkan dengan adanya aplikasi ini, dapat membantu masyarakat dalam usaha mitigasi bencana bumi.
-
-
 
 Tutorial:
 1. langkah pertama install seluruh libary 
