@@ -6,7 +6,7 @@
 - Acep Alinurdin - 10121140
 
 ### Tentang QuakeVigilant
-QuakeVigilant adalah aplikasi berbasis web yang dibangun menggunakan framework Python bernama Streamlit. Aplikasi ini bertujuan untuk membantu masyarakat dalam mitigasi bencana gempa bumi. Nama "QuakeVigilant" diambil dari kata "quake" yang berarti gempa dan "vigilant" yang berarti waspada, sehingga secara harfiah dapat diartikan sebagai "Waspada terhadap gempa bumi".
+Streamlit adalah framework Python yang memungkinkan Anda membuat aplikasi web dengan menggunakan script Python. Aplikasi ini bertujuan untuk membantu masyarakat dalam mitigasi bencana gempa bumi. Nama "QuakeVigilant" diambil dari kata "quake" yang berarti gempa dan "vigilant" yang berarti waspada, sehingga secara harfiah dapat diartikan sebagai "Waspada terhadap gempa bumi".
 
 ### Fitur untuk Pengguna
 - Pemantauan gempa bumi secara real-time.
