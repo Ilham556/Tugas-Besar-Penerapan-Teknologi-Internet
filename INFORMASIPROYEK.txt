@@ -52,6 +52,14 @@ jika seluruh langkah sebelumnya berhasil lalu jalankan
 cmd : cd <lokasi_folder>
 streamlit run main.py
 
+Akun Admin:
+email	: admin@gmail.com
+password: admin
+
+Akun User:
+email	: user@gmail.com
+password: user1234
+
 
 
 
