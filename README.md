@@ -1,5 +1,5 @@
 # QuakeVigilant - Aplikasi Pemantauan Gempa Bumi
-
+## aplikasi ini dibuat dengan Versi Python 3.8.17.
 ## Nama Anggota Kelompok:
 - Muhammad Ilham Gymnastiar - 10121124
 - Abdul Azis Alghifari - 10121125
