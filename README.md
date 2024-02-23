@@ -62,11 +62,11 @@ Streamlit adalah framework Python yang memungkinkan Anda membuat aplikasi web de
    ```
 4. Akun
    - Akun Admin:
-      email	: admin@gmail.com
-      password: admin
+     email	: admin@gmail.com 
+     password: admin
 
    - Akun User:
-      email	: user@gmail.com
-      password: user1234
+     email	: user@gmail.com
+     password: user1234
 
 Dengan adanya QuakeVigilant, diharapkan dapat memberikan kontribusi dalam usaha mitigasi bencana gempa bumi dan memberikan informasi yang berguna kepada masyarakat.
