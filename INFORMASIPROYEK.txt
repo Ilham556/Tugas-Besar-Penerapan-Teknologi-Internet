@@ -13,7 +13,8 @@ fitur yang kami sediakan khusus guest meliputi:
 - Daerah rawan gempa bumi disajikan menggunakan MAPS(HeatMap). 
 - Grafik gempa bumi
 - serta cara mitigasi gempa bumi berupa artikel.
-- login / logout
+- login
+- Register
 - Edit Profile
 
 fitur yang kami sediakan khusus user meliputi:
