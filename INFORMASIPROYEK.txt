@@ -5,7 +5,7 @@ Nama Anggota Kelompok:
 
 informasi:
 aplikasi ini dibuat dengan Versi Python 3.8.17.
-Streamlit adalah framework Python yang memungkinkan Anda membuat aplikasi web dengan cepat hanya dengan menggunakan script Python.
+Streamlit adalah framework Python yang memungkinkan Anda membuat aplikasi web dengan menggunakan script Python.
 Disini saya membangun aplikasi seputar gempa bumi yang kami berinama QuakeVigilant yang dimana diambil dari dua kataquake adalah gempa dan vigilant adalah waspada jika diartikan menjadi Waspada terhadap gempa bumi. 
 
 fitur yang kami sediakan khusus guest meliputi:
